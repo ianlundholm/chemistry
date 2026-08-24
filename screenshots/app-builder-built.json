@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ozone Lewis Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 5663,
+      "bodyTextHash": "12b8660600af47b1d7e1ee795c6e485bc6e70c7898d97f174a1a75dcb7f7601d",
+      "bodyTextPrefix": "Ozone Lewis Lab O₃ Structure Build Charge Resonance Shape Quiz C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ozone Lewis Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 5613,
+      "bodyTextHash": "462abb296741f25207b7993f72e85e29535cbb5d6257e8f6aa9e132c7040bb90",
+      "bodyTextPrefix": "Ozone Lewis Lab O₃ Structure Build Charge Resonance Shape Quiz C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
